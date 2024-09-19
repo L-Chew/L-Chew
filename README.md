@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lorene Chew
 ===================================================================================================================================
 
-Front End Developer
+Software Engineer
 -------------------
 
 I am a finance manager turned software engineer with experience in Full Stack development. I am a team player with a growth and business mindset who is a constant learner, driven to succeed, and delivers results.
